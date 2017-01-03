@@ -1,0 +1,45 @@
+.defaultValues{
+	background-color: #5A7CC9;
+	border-radius: 15px;
+	text-align: center;
+	margin: 30px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	font-family: Verdana
+}
+
+#canvasdiv{
+	margin-left: 300px;
+	height: 400px;
+	width: 700px;
+}
+
+#myCanvas{
+	margin:50px;
+	background: url(http://i.stack.imgur.com/ynxjD.png) repeat-y;
+}
+
+#mainbuttondiv{
+	height: 50px;
+}
+#buttons{
+	height: 70px;
+}
+
+.letter-button{
+	margin-top: 20px;
+}
+
+body{
+	background-color: #2DB5A2;
+        background-image: url('http://1.bp.blogspot.com/-NWozfn5hkGc/UZsfjc7jhuI/AAAAAAAADjU/RqwHB5EsDbw/s1600/Descargar+Pack+Gratis+Wallpaper+Ni%C3%83%C2%B1os+peque%C3%83%C2%B1os+(67).jpg') ;
+        
+        background-size: cover  ;
+    
+	text-align: center;
+}
+
+h1{
+	
+	font-family: Verdana;
+}
